@@ -1,3 +1,17 @@
+Multiplication
+
+
+
+
+
+
+
+
+
+def multiply(a, b):
+    return a * b
+=======
+
 Subtraction
 
 
@@ -14,4 +28,5 @@ Punjab Tianjin University of Technology
 Addition:
 def add(a, b):
     return a + b
+Addition
 Addition
